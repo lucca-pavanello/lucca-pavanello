@@ -1,4 +1,4 @@
-## Lucca Pavanallo
+## Lucca Pavanello
 
 Desenvolvedor full-stack e automação, em São José do Rio Preto (SP).
 Construo ERPs, dashboards e agentes de IA que rodam em produção — não em protótipo.
