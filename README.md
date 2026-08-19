@@ -18,7 +18,7 @@ Full-stack developer in São José do Rio Preto, Brazil. I ship things that run 
 
 ### Projects
 
-**[Agente-IA](https://github.com/lucca-pavanello/Agente-IA) — replicable WhatsApp AI agent kit**
+**Agente-IA — replicable WhatsApp AI agent kit** *(private)*
 One config file per client, a 99-node n8n template with 13 variables, a single database migration and a shared owner dashboard (CRM, schedule, follow-up). Turning a one-off assistant into a product: the first client took weeks, the second took an afternoon.
 `n8n · Supabase · React 19 · Vite · Gemini`
 
